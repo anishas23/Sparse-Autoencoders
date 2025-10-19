@@ -1,1 +1,1 @@
-# Sparse-Autoencoders
+# UGP on sparse encoders
